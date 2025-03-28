@@ -113,4 +113,4 @@ This project aligns with the Google Solutions Challenge 2025 by addressing real-
 
 ## 📄 License
 
-This project is proposed to be licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is proposed to be licensed under the MIT License - see the [LICENSE](https://github.com/Tvisha-tech88/EcoValley/blob/main/LICENSE) file for details.
