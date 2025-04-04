@@ -40,7 +40,7 @@ EcoValley envisions a future where technology bridges the digital divide, empowe
 * **Impactful:** Addressing critical challenges with measurable outcomes aligned with the Sustainable Development Goals (SDGs).
 * **Sustainable:** Building long-term solutions that foster community resilience and growth.
 
-## 💻 Languages Used
+## 💻 Tech Used
 
 * **Frontend:**
     * **Languages:** TypeScript, JavaScript (ES6+)
@@ -54,7 +54,17 @@ EcoValley envisions a future where technology bridges the digital divide, empowe
    
 * **Machine Learning (Proposed Future Development):**
     * Python (TensorFlow, scikit-learn, Pandas, NumPy) - For future AI model development and integration.
- 
+
+* **Vertex AI:**
+  * **Automated Machine Learning (AutoML):** For streamlined development of custom models to predict water contamination levels, optimize crop yields, and identify disease outbreaks with minimal coding.<br>
+  * **Custom Training:** To develop and deploy more complex and tailored machine learning models for advanced environmental analysis, climate pattern prediction, and personalized healthcare insights.<br>
+  * **Model Deployment and Monitoring:** Ensuring that the trained models are scalable, performant, and continuously monitored for accuracy in real-world applications within EcoValley.<br>
+
+* **Project IDX:**
+  * **Rapid Prototyping and Development:** Utilizing the browser-based development environment for efficient coding, testing, and iteration of EcoValley's features across frontend and backend.
+  * **Simplified Google Cloud Integration:** Leveraging IDX's built-in capabilities to seamlessly connect with other Google Cloud services, including Vertex AI, for streamlined development workflows.
+  * **Collaborative Development:** Enabling easier collaboration among team members through a shared and accessible development environment.
+  * **Cross-Platform Compatibility:** Building and testing the platform for accessibility across various devices and potential low-bandwidth scenarios.
 
 ## 🛠️ Proposed Technical Approach (Google Technologies)
 
@@ -67,13 +77,8 @@ EcoValley envisions a future where technology bridges the digital divide, empowe
 * **Google Fit API:** Health data integration for HealthWatch.
 * **Google Sustainability APIs:** Data for ClimateSmart module.
 * **Gemini AI API:** Chatbots and advanced image analysis.
-*  **Vertex AI API:**
-    * **Automated Machine Learning (AutoML):** For training custom models to predict water contamination levels, crop yields, and disease outbreaks.
-    * **Custom Training:** For developing and deploying advanced machine learning models for environmental analysis and climate pattern prediction.
-    * **Model Deployment and Monitoring:** To ensure the models are scalable and performant.
 * **Google Sheets API:** Digital ledgers for AgriPulse.
 * **Google Speech-to-Text API:** Voice interface for accessibility.
-* **Google IDX API:** Web based learning portals.
 * **Google Cloud Functions API:** Automating tasks and notifications.
 * **Google Cloud AutoML API:** AI-driven disease pattern analysis and skin disease detection.
 * **Google Cloud AI Tutor API:** Skill-building courses for EmpowerHer.
