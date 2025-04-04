@@ -68,19 +68,13 @@ EcoValley envisions a future where technology bridges the digital divide, empowe
 
 ## 🛠️ Proposed Technical Approach (Google Technologies)
 
-* **Google Maps API:** Interactive mapping for water quality and emergency response.
 * **Google Cloud Vision/TensorFlow API:** AI-powered image analysis for contamination and crop diseases.
 * **Google Weather API:** Real-time weather and rainfall predictions for agriculture.
 * **Google Classroom API:** Virtual classroom functionalities for EduReach.
 * **Google Translate API:** Multilingual support across the platform.
-* **Google Earth Engine API:** Satellite data for environmental monitoring.
-* **Google Fit API:** Health data integration for HealthWatch.
-* **Google Sustainability APIs:** Data for ClimateSmart module.
 * **Gemini AI API:** Chatbots and advanced image analysis.
 * **Google Sheets API:** Digital ledgers for AgriPulse.
-* **Google Speech-to-Text API:** Voice interface for accessibility.
 * **Google Cloud Functions API:** Automating tasks and notifications.
-* **Google Cloud AutoML API:** AI-driven disease pattern analysis and skin disease detection.
 * **Google Cloud AI Tutor API:** Skill-building courses for EmpowerHer.
 
 ### **Databases (Proposed Future Development):**
